@@ -1,3 +1,4 @@
+// app/doctors/[id]/page.tsx
 "use client";
 
 import { useParams, notFound } from "next/navigation";
